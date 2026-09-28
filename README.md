@@ -7,9 +7,9 @@
 <p align="center"><b>Find the gigabytes hiding in macOS System Data, and get them back safely.</b></p>
 
 <p align="center">
-  <a href="https://github.com/RamsaTech/DiskSpaceHunter-Release/releases/download/v0.2.0-beta.1/GigaHunter-0.2.0-beta.1.dmg"><b>Download GigaHunter 0.2.0-beta.1</b></a>
+  <a href="https://github.com/RamsaTech/DiskSpaceHunter-Release/releases/download/v0.2.0-beta.2/GigaHunter-0.2.0-beta.2.dmg"><b>Download GigaHunter 0.2.0-beta.2</b></a>
   &nbsp;·&nbsp; <a href="https://github.com/RamsaTech/DiskSpaceHunter-Release/releases">All releases and notes</a>
-  <br><sub>Test build · September 27, 2026 · macOS 15 Sequoia or later · Apple silicon and Intel</sub>
+  <br><sub>Test build · September 28, 2026 · macOS 15 Sequoia or later · Apple silicon and Intel</sub>
 </p>
 
 ---
@@ -26,7 +26,7 @@ When your Mac's storage shows a huge **System Data** bar, GigaHunter shows you w
 
 ## Install
 
-1. Download **GigaHunter-0.2.0-beta.1.dmg**, open it, and drag **GigaHunter** into **Applications**.
+1. Download **GigaHunter-0.2.0-beta.2.dmg**, open it, and drag **GigaHunter** into **Applications**.
 2. Open GigaHunter. Test builds aren't notarized yet, so macOS says it can't verify the app. Click **Done**.
 3. Open **System Settings › Privacy & Security**, click **Open Anyway** next to "GigaHunter was blocked", and confirm.
 
